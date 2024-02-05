@@ -1,6 +1,6 @@
 # Freedo Rental Services
 
-![Freedo Rental Services]
+Freedo Rental Services
 
 Freedo Rental Services is a comprehensive platform developed to manage bike rental services efficiently. The project includes a website, a mobile application, and an admin interface for seamless bike rental operations.
 

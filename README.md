@@ -31,9 +31,8 @@ Freedo Rental Services is a comprehensive platform developed to manage bike rent
 
 ## Project Screenshots
 
-
-![Screenshot 2024-02-05 at 3 11 45 AM](https://github.com/mkg5599/Freedo-Rental-Services/assets/156139712/e75f0c96-c3c3-49b1-a16a-6d97cd993ab7)
 ![Screenshot 2024-02-05 at 3 11 09 AM](https://github.com/mkg5599/Freedo-Rental-Services/assets/156139712/17b06c62-4e8d-4d24-81c7-0a84137cfbda)
+![Screenshot 2024-02-05 at 3 11 45 AM](https://github.com/mkg5599/Freedo-Rental-Services/assets/156139712/e75f0c96-c3c3-49b1-a16a-6d97cd993ab7)
 
 
 ## Acknowledgments
